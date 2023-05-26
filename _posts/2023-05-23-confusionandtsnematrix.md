@@ -28,7 +28,7 @@ con_matrix.plot_confusion_matrix(figsize=figsize, normalize=normalize, title=tit
 
 ## 🧠 Evaluation and Thoughts on the Confusion Matrix
 
-![confusion matrix result](../images/confusionmatrix.png)
+![confusion matrix result](/images/confusionmatrix.png)
 
 The Confusion Matrix provides valuable information about the performance of the image classification model. It helps us understand which classes are being correctly predicted and which classes are causing confusion. By analyzing the matrix, we can identify any patterns or trends in the model's misclassifications.
 
@@ -68,7 +68,7 @@ plt.show()
 
 ## 🧠 Evaluation and Thoughts on the t-SNE Matrix
 
-![confusion matrix result](../images/t-SNEmatrix.png)
+![confusion matrix result](/images/t-SNEmatrix.png)
 
 The t-SNE Matrix visualization provides insights into the distribution and clustering of image features in a lower-dimensional space. By plotting the t-SNE embeddings, we can identify if similar classes are grouped together or if there are any overlaps or separations between classes. This visualization helps us understand how the model's learned representations are structured and whether it captures meaningful similarities between different animal classes.
 
