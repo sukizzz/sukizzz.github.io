@@ -6,13 +6,8 @@ Hello this is Suki 😀! Welcome to my personal blog, where I will be documentin
 
 Hope you enjoy and have fun 🥳!
 
-## 	👉 My Journey into the World of AI
-
-> 22 May 2023
-### 👣 [What is fast.ai?](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/blob/master/_posts/2023-05-22-whatisfastai.md)
-
-> 23 May 2023
-### 👣 [Confusion and t-SNE Matrices Evaluation](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/blob/master/_posts/2023-05-23-confusionandtsnematrix.md)
+## My Blog Page:
+> sukizzz.github.io
 
 ## 	👉 References
 
