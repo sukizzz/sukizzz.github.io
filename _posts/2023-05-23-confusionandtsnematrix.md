@@ -66,7 +66,7 @@ plt.show()
 
 ```
 
-## :brain: Evaluation and Thoughts on the Confusion Matrix
+## :brain: Evaluation and Thoughts on the t-SNE Matrix
 
 ![confusion matrix result](../images/t-SNEmatrix.png)
 
