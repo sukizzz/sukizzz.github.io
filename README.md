@@ -7,7 +7,7 @@ Hello this is Suki 😀! Welcome to my personal blog, where I will be documentin
 Hope you enjoy and have fun 🥳!
 
 ## My Blog Page:
-> sukizzz.github.io
+> [suki's blog](sukizzz.github.io)
 
 ## 	👉 References
 
