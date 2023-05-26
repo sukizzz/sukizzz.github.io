@@ -12,8 +12,7 @@ Hope you enjoy and have fun :partying_face:!
 ### :footprints: [What is fast.ai?](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/blob/master/_posts/2023-05-26-whatisfastai.md)
 
 > 23 May 2023
-### :footprints: [Confusion and t-SNE Matrices Evaluation](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/blob/master/_posts/2023-05-22-confusionandtsnematrix.md)
-
+### :footprints: [Confusion and t-SNE Matrices Evaluation](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/blob/master/_posts/2023-05-23-confusionandtsnematrix.md)
 
 ## 	:point_right: References
 
