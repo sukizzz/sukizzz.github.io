@@ -4,4 +4,4 @@ Hello this is Suki 😀! Welcome to my personal blog, where I will be documentin
 
 ![Image of fast.ai logo](/images/logo.png)
 
-Hope you enjoy and have fun 🥳!
+Hope you enjoy and have fun 🥳! 
