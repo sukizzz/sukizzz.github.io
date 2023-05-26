@@ -1,6 +1,6 @@
 # So, what is fast.ai?
 
-![fast.ai image](images/fastai_image.jpeg)
+![fast.ai image](/images/fastai_image.jpeg)
 > [1]
 
 ## 👉 What is Fast.ai?
