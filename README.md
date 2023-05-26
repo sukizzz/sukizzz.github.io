@@ -8,10 +8,10 @@ Hope you enjoy and have fun :partying_face:!
 
 ## 	:point_right: My Journey into the World of AI
 
-> 25 May 2023
+> 22 May 2023
 ### :footprints: [What is fast.ai?](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/blob/master/_posts/2023-05-26-whatisfastai.md)
 
-> 25 May 2023
+> 23 May 2023
 ### :footprints: [Confusion and t-SNE Matrices Evaluation](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/blob/master/_posts/2023-05-22-confusionandtsnematrix.md)
 
 
