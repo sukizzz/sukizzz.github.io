@@ -1,10 +1,8 @@
-Hello this is Suki and welcome to my personal blog documenting my working progress and what I have
-learned about AI from the fastai course.
+Hello this is Suki :)! Welcome to my personal blog, where I will be documenting my exciting journey through the fastai course and my exploration of the fascinating world of artificial intelligence (AI). Join me as I delve into the depths of deep learning, uncovering its applications, methodologies, and the incredible possibilities it holds for the future.
 
 ![Image of fast.ai logo](images/logo.png)
 
-* Note: All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
-## So, What is fast.ai?
+Hope you enjoy and have fun :)!
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## My Journey into the World of AI
