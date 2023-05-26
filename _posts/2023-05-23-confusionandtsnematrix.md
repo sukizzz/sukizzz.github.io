@@ -1,7 +1,7 @@
 # Confusion and t-SNE Matrices Evaluation
 
 ![a decoration tsne image](/images/tsne-python.jpeg)
-> [4]
+> (Derksen, 2022)
 
 ## 👉 Introduction to this Blog
 In this evaluation blog, we will explore two important tools used in image classification tasks: the Confusion Matrix and the t-SNE Matrix. These matrices provide valuable insights into the performance and understanding of machine learning models. We will analyze their definitions, how they were utilized in the provided code, and discuss the resulting analysis. 
@@ -80,8 +80,5 @@ In this evaluation blog, two important tools for analyzing image classification 
 
 These evaluation techniques are valuable for understanding the strengths and weaknesses of image classification models. By leveraging the insights gained from the Confusion Matrix and the t-SNE Matrix, developers and researchers can make informed decisions to improve their models, enhance accuracy, and gain a deeper understanding of the learned representations.
 
-> [2] Used for background information research as well as code explaination, see [References](https://sukizzz.github.io/2023/05/25/references.html) for more details. 
-
-
-
+> (OpenAI, 2022) Used for background information research, see [References](https://sukizzz.github.io/2023/05/25/references.html) for details. 
 
