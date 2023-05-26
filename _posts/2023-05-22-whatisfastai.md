@@ -21,7 +21,7 @@ Fast.ai emphasizes the practical application of AI in various domains. From comp
 ## 🧠 Thoughts
 Overall, embarking on this journey into Fast.ai and the world of AI is an exciting endeavor. Through this blog, I aim to document my progress, share insights, and inspire others to join me in exploring the limitless possibilities of AI. Fast.ai's practical approach and powerful library will undoubtedly equip us with the skills and knowledge to make meaningful contributions in the field. So, let's dive in and unlock the vast potential of AI together! 
 
-> [2] Used for background information research, see [References](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/tree/master#point_right-references) for details. 
+> [2] Used for background information research, see [References](https://sukizzz.github.io/2023/05/25/references.html) for details. 
 
 
 
