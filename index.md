@@ -5,3 +5,5 @@ Hello this is Suki :)! Welcome to my personal blog, where I will be documenting 
 Hope you enjoy and have fun :)!
 
 ## My Journey into the World of AI
+
+TOC {:toc}
