@@ -80,7 +80,7 @@ In this evaluation blog, two important tools for analyzing image classification 
 
 These evaluation techniques are valuable for understanding the strengths and weaknesses of image classification models. By leveraging the insights gained from the Confusion Matrix and the t-SNE Matrix, developers and researchers can make informed decisions to improve their models, enhance accuracy, and gain a deeper understanding of the learned representations.
 
-> [2] Used for background information research as well as code explaination, see [References](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/tree/master#point_right-references) for more details. 
+> [2] Used for background information research as well as code explaination, see [References](https://sukizzz.github.io/2023/05/25/references.html) for more details. 
 
 
 
