@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+title: Suki's ELEC4630 Assignment 3 Blog
+description: Welcome to my personal blog, where I will be documenting my exciting journey through the fastai course and my exploration of the fascinating world of artificial intelligence (AI)❤.
 github_username: sukizzz
 
 # Email and twitter are optional:
