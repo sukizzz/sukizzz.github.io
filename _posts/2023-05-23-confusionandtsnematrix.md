@@ -1,15 +1,15 @@
 # Confusion and t-SNE Matrices Evaluation
 
-![a decoration tsne image](../images/tsne-python.jpeg)
+![a decoration tsne image](/images/tsne-python.jpeg)
 > [4]
 
-## :point_right: Introduction to this Blog
+## 👉 Introduction to this Blog
 In this evaluation blog, we will explore two important tools used in image classification tasks: the Confusion Matrix and the t-SNE Matrix. These matrices provide valuable insights into the performance and understanding of machine learning models. We will analyze their definitions, how they were utilized in the provided code, and discuss the resulting analysis.
 
-## :point_right: What is a Confusion Matrix?
+## 👉 What is a Confusion Matrix?
 The Confusion Matrix is a table that allows us to visualize the performance of a classification model. It provides a summary of the predicted classes versus the actual classes. The matrix is organized into four quadrants: true positive (TP), false positive (FP), true negative (TN), and false negative (FN). TP represents the correctly predicted positive samples, FP represents the incorrectly predicted positive samples, TN represents the correctly predicted negative samples, and FN represents the incorrectly predicted negative samples.
 
-## :point_right: What did I do for the Assignment?
+## 👉 What did I do for the Assignment?
 In my code, the Confusion Matrix was created using the ClassificationInterpretation.from_learner() function from the fastai library. By calling this function on the trained learn object, we obtain a ConfusionMatrix object named con_matrix. We can then visualize the Confusion Matrix using the plot_confusion_matrix() method, specifying the desired styling options [2].
 
 ```
@@ -26,7 +26,7 @@ con_matrix.plot_confusion_matrix(figsize=figsize, normalize=normalize, title=tit
 
 ```
 
-## :brain: Evaluation and Thoughts on the Confusion Matrix
+## 🧠 Evaluation and Thoughts on the Confusion Matrix
 
 ![confusion matrix result](../images/confusionmatrix.png)
 
@@ -35,10 +35,10 @@ The Confusion Matrix provides valuable information about the performance of the 
 The matrix displayed the distribution of correctly classified and misclassified images for each animal class. By examining the matrix, we can identify if certain classes had higher or lower accuracy, and whether there were any significant confusions between specific pairs of classes. This analysis can guide us in understanding the model's strengths and weaknesses and can help improve its performance through targeted adjustments.
 
 
-## :point_right: What is a t-SNE Matrix?
+## 👉 What is a t-SNE Matrix?
 The t-SNE (t-Distributed Stochastic Neighbor Embedding) Matrix is a dimensionality reduction technique commonly used for visualizing high-dimensional data. It aims to project data points into a lower-dimensional space while preserving their pairwise similarities. In the context of image classification, t-SNE can be used to visualize the learned feature representations of images in a two-dimensional scatter plot.
 
-## :point_right: What did I do for the Assignment?
+## 👉 What did I do for the Assignment?
 In my code, the t-SNE Matrix was created using the TSNE class from the sklearn.manifold module. The activations of the model's last layer were extracted using a forward hook and then concatenated and converted into a NumPy array. The t-SNE algorithm was applied to these activations to reduce their dimensionality to two. Finally, the t-SNE embeddings were plotted using a scatter plot with class labels [2].
 
 ```
@@ -66,7 +66,7 @@ plt.show()
 
 ```
 
-## :brain: Evaluation and Thoughts on the t-SNE Matrix
+## 🧠 Evaluation and Thoughts on the t-SNE Matrix
 
 ![confusion matrix result](../images/t-SNEmatrix.png)
 
