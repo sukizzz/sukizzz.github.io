@@ -1,20 +1,20 @@
-# :point_right: Suki's ELEC4630 Assignment 3 Blog
+# 👉 Suki's ELEC4630 Assignment 3 Blog
 
-Hello this is Suki:grinning:! Welcome to my personal blog, where I will be documenting my exciting journey through the fastai course and my exploration of the fascinating world of artificial intelligence (AI). Join me as I delve into the depths of deep learning, uncovering its applications, methodologies, and the incredible possibilities it holds for the future.
+Hello this is Suki 😀! Welcome to my personal blog, where I will be documenting my exciting journey through the fastai course and my exploration of the fascinating world of artificial intelligence (AI). Join me as I delve into the depths of deep learning, uncovering its applications, methodologies, and the incredible possibilities it holds for the future.
 
-![Image of fast.ai logo](images/logo.png)
+![Image of fast.ai logo](/images/logo.png)
 
-Hope you enjoy and have fun :partying_face:!
+Hope you enjoy and have fun 🥳!
 
-## 	:point_right: My Journey into the World of AI
+## 	👉 My Journey into the World of AI
 
 > 22 May 2023
-### :footprints: [What is fast.ai?](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/blob/master/_posts/2023-05-22-whatisfastai.md)
+### 👣 [What is fast.ai?](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/blob/master/_posts/2023-05-22-whatisfastai.md)
 
 > 23 May 2023
-### :footprints: [Confusion and t-SNE Matrices Evaluation](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/blob/master/_posts/2023-05-23-confusionandtsnematrix.md)
+### 👣 [Confusion and t-SNE Matrices Evaluation](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/blob/master/_posts/2023-05-23-confusionandtsnematrix.md)
 
-## 	:point_right: References
+## 	👉 References
 
 >[1] 	H. Tyagi, "Deep Learning Tutorial – How to Train and Deploy a Deep Learning Model with fast.ai," 6 October 2020. [Online]. Available: https://www.freecodecamp.org/news/deep-learning-with-fastai/. [Accessed May 2023].
 
