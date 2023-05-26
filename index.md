@@ -2,7 +2,6 @@ Hello this is Suki :)! Welcome to my personal blog, where I will be documenting 
 
 ![Image of fast.ai logo](images/logo.png)
 
-
 Hope you enjoy and have fun :)!
 
 ## My Journey into the World of AI
