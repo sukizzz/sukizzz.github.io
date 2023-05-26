@@ -6,4 +6,5 @@ Hope you enjoy and have fun :)!
 
 ## My Journey into the World of AI
 
-1. TOC {:toc}
+> 25 May 2023
+:footprints: 
