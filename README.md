@@ -11,6 +11,8 @@ Hope you enjoy and have fun :partying_face:!
 > 25 May 2023
 ### :footprints: [What is fast.ai?](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/blob/master/_posts/2023-05-26-whatisfastai.md)
 
+> 25 May 2023
+### :footprints: [What is fast.ai?](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/blob/master/_posts/2023-05-22-confusionandtsnematrix.md)
 
 
 ## 	:point_right: References
