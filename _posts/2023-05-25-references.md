@@ -1,4 +1,4 @@
-## 	👉 References
+## References
 
 >[1] 	H. Tyagi, "Deep Learning Tutorial – How to Train and Deploy a Deep Learning Model with fast.ai," 6 October 2020. [Online]. Available: https://www.freecodecamp.org/news/deep-learning-with-fastai/. [Accessed May 2023].
 
