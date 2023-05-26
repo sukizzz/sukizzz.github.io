@@ -18,7 +18,7 @@ Fast.ai simplifies the complexity of deep learning models by abstracting away th
 ## :point_right: Real-World Applications:
 Fast.ai emphasizes the practical application of AI in various domains. From computer vision to natural language processing, the course provides comprehensive coverage of different areas, enabling learners to leverage AI in their own projects. By exploring real-world datasets and problem statements, you'll gain valuable experience in building and deploying AI models.
 
-> [2]
+> [2] -> Used for background information research, see [References](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/tree/master#point_right-references) for details.  
 
 ## :brain: Thoughts
 Overall, embarking on this journey into Fast.ai and the world of AI is an exciting endeavor. Through this blog, I aim to document my progress, share insights, and inspire others to join me in exploring the limitless possibilities of AI. Fast.ai's practical approach and powerful library will undoubtedly equip us with the skills and knowledge to make meaningful contributions in the field. So, let's dive in and unlock the vast potential of AI together! 
