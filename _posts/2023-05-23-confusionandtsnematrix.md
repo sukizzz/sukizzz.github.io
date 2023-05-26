@@ -38,7 +38,7 @@ The matrix displayed the distribution of correctly classified and misclassified 
 ## :point_right: What is a t-SNE Matrix?
 The t-SNE (t-Distributed Stochastic Neighbor Embedding) Matrix is a dimensionality reduction technique commonly used for visualizing high-dimensional data. It aims to project data points into a lower-dimensional space while preserving their pairwise similarities. In the context of image classification, t-SNE can be used to visualize the learned feature representations of images in a two-dimensional scatter plot.
 
-## :point_right: WWhat did I do for the Assignment?
+## :point_right: What did I do for the Assignment?
 In my code, the t-SNE Matrix was created using the TSNE class from the sklearn.manifold module. The activations of the model's last layer were extracted using a forward hook and then concatenated and converted into a NumPy array. The t-SNE algorithm was applied to these activations to reduce their dimensionality to two. Finally, the t-SNE embeddings were plotted using a scatter plot with class labels [2].
 
 ```
