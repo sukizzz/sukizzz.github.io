@@ -6,4 +6,4 @@ Hope you enjoy and have fun :)!
 
 ## My Journey into the World of AI
 
-TOC {:toc}
+1. TOC {:toc}
