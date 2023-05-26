@@ -1,6 +1,6 @@
 # Confusion and t-SNE Matrices Evaluation
 
-![fast.ai image](../images/tsne-pythonpeg)
+![a decoration tsne image](../images/tsne-python.jpeg)
 > [4]
 
 ## :point_right: Introduction to this Blog
