@@ -26,7 +26,7 @@ One of the key aspects of our research is to analyze the impact of different arc
 
 While our model may exhibit promising results on the CIFAKE dataset, it is essential to consider its generalization capabilities. Future research could involve evaluating the model on external datasets, including other types of AI-generated images, to assess its robustness. Additionally, exploring advanced techniques such as transfer learning and ensemble models might further enhance the accuracy and reliability of image classification.
 
-> [2] Used for background information research, see [References](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/tree/master#point_right-references) for more details. 
+> [2] Used for background information research, see [References](https://sukizzz.github.io/2023/05/25/references.html) for more details. 
 
 
 
