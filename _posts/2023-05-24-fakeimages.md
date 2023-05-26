@@ -1,8 +1,7 @@
 # Research on Detecting AI-Generated Images using Computer Vision to Help with Question 3
 
 ![a decoration ai image](/images/ai.jpeg)
-> [5]
-
+> (Fujitsu AI, 2023)
 ## 👉 Introduction to this Blog
 In recent years, the advancement of artificial intelligence (AI) has led to a significant improvement in the quality of AI-generated images. While this progress has unlocked numerous opportunities, it has also raised concerns regarding the authenticity and trustworthiness of such images. To tackle this issue, we embark on a mini research project to explore whether computer vision techniques can be employed to discern between real and AI-generated images. This blog post delves into the design of a deep learning model, evaluation of its performance, and analysis of the impact of various hyperparameters and architecture choices. We base our investigation on the CIFAKE dataset, comprising 60,000 synthetic and real images, which was released on Kaggle in 2023.
 
@@ -26,7 +25,7 @@ One of the key aspects of our research is to analyze the impact of different arc
 
 While our model may exhibit promising results on the CIFAKE dataset, it is essential to consider its generalization capabilities. Future research could involve evaluating the model on external datasets, including other types of AI-generated images, to assess its robustness. Additionally, exploring advanced techniques such as transfer learning and ensemble models might further enhance the accuracy and reliability of image classification.
 
-> [2] Used for background information research, see [References](https://sukizzz.github.io/2023/05/25/references.html) for more details. 
+> (OpenAI, 2022) Used for background information research, see [References](https://sukizzz.github.io/2023/05/25/references.html) for details. 
 
 
 
