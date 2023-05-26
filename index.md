@@ -7,4 +7,4 @@ Hope you enjoy and have fun :)!
 ## My Journey into the World of AI
 
 > 25 May 2023
-### :footprints: [What is fast.ai?] (https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/blob/master/_posts/2023-05-26-whatisfastai.md)
+### :footprints: [What is fast.ai?](https://github.com/sukizzz/Suki-s-Fast.ai-Blog.github.io/blob/master/_posts/2023-05-26-whatisfastai.md)
