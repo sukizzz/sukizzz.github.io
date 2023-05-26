@@ -20,5 +20,4 @@ Hope you enjoy and have fun 🥳!
 
 
 >[5] 	Fujitsu AI, "Artificial intelligence," 2023. [Online]. Available: https://www.fujitsu.com/global/themes/ai/products/. [Accessed May 2023].
-![image](https://github.com/sukizzz/sukizzz.github.io/assets/109938552/9cf477ee-3f80-4d97-9a2d-be025d6c68a9)
 
