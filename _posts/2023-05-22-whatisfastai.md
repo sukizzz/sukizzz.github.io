@@ -1,7 +1,7 @@
 # So, what is fast.ai?
 
 ![fast.ai image](/images/fastai_image.jpeg)
-> [1]
+> (Tyagi, 2020)
 
 ## 👉 What is Fast.ai?
 Fast.ai is a cutting-edge deep learning library and educational platform that empowers individuals to quickly and effectively grasp the complexities of AI. Developed by Jeremy Howard and Rachel Thomas, Fast.ai simplifies the process of building state-of-the-art models while maintaining a strong focus on practicality and accessibility. It's renowned for its top-down teaching approach, enabling learners to achieve impressive results with minimal code.
@@ -21,7 +21,7 @@ Fast.ai emphasizes the practical application of AI in various domains. From comp
 ## 🧠 Thoughts
 Overall, embarking on this journey into Fast.ai and the world of AI is an exciting endeavor. Through this blog, I aim to document my progress, share insights, and inspire others to join me in exploring the limitless possibilities of AI. Fast.ai's practical approach and powerful library will undoubtedly equip us with the skills and knowledge to make meaningful contributions in the field. So, let's dive in and unlock the vast potential of AI together! 
 
-> [2] Used for background information research, see [References](https://sukizzz.github.io/2023/05/25/references.html) for details. 
+> (OpenAI, 2022) Used for background information research, see [References](https://sukizzz.github.io/2023/05/25/references.html) for details. 
 
 
 
