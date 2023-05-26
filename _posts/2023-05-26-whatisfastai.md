@@ -1,7 +1,7 @@
 # So, what is fast.ai?
 
 ![fast.ai image](../images/fastai_image.jpeg)
-<h6> [1] </h6>
+> [1]
 
 ## :point_right: What is Fast.ai?
 Fast.ai is a cutting-edge deep learning library and educational platform that empowers individuals to quickly and effectively grasp the complexities of AI. Developed by Jeremy Howard and Rachel Thomas, Fast.ai simplifies the process of building state-of-the-art models while maintaining a strong focus on practicality and accessibility. It's renowned for its top-down teaching approach, enabling learners to achieve impressive results with minimal code.
@@ -18,6 +18,10 @@ Fast.ai simplifies the complexity of deep learning models by abstracting away th
 ## :point_right: Real-World Applications:
 Fast.ai emphasizes the practical application of AI in various domains. From computer vision to natural language processing, the course provides comprehensive coverage of different areas, enabling learners to leverage AI in their own projects. By exploring real-world datasets and problem statements, you'll gain valuable experience in building and deploying AI models.
 
+> [2]
+
 ## :brain: Thoughts
-Overall, embarking on this journey into Fast.ai and the world of AI is an exciting endeavor. Through this blog, I aim to document my progress, share insights, and inspire others to join me in exploring the limitless possibilities of AI. Fast.ai's practical approach and powerful library will undoubtedly equip us with the skills and knowledge to make meaningful contributions in the field. So, let's dive in and unlock the vast potential of AI together!
+Overall, embarking on this journey into Fast.ai and the world of AI is an exciting endeavor. Through this blog, I aim to document my progress, share insights, and inspire others to join me in exploring the limitless possibilities of AI. Fast.ai's practical approach and powerful library will undoubtedly equip us with the skills and knowledge to make meaningful contributions in the field. So, let's dive in and unlock the vast potential of AI together! 
+
+
 
