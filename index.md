@@ -3,7 +3,7 @@
 Hello this is Suki 😀! Welcome to my personal blog, where I will be documenting my exciting journey through the fastai course and my exploration of the fascinating world of artificial intelligence (AI). Join me as I delve into the depths of deep learning, uncovering its applications, methodologies, and the incredible possibilities it holds for the future. 
 
 > [Link to my blog](https://sukizzz.github.io/)
-* https://sukizzz.github.io/
+* [https://sukizzz.github.io/](https://sukizzz.github.io/)
 
 ![Image of fast.ai logo](/images/logo.png)
 
